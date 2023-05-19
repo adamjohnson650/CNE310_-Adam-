@@ -1,5 +1,7 @@
 # CNE310_[Adam]
  This is my GitHub
+C:\Users\ajjoh\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\ajjoh\PycharmProjects\pythonProject\main.py
+
 b=int(input())
 c=int(input())
 
